@@ -1,0 +1,1912 @@
+area_unit_id,area_unit_name
+500100,Awanui
+500202,Karikari Peninsula-Maungataniwha
+500203,Taipa Bay-Mangonui
+500204,Herekino
+500205,Ahipara
+500206,North Cape
+500207,Houhora
+500208,Motutangi-Kareponia
+500301,Kaitaia West
+500302,Kaitaia East
+500401,Kaeo
+500402,Mangapa-Matauri Bay
+500500,Kohukohu
+500600,Rawene
+500700,Omapere and Opononi
+500801,Hokianga North
+500802,Hokianga South
+500900,Kerikeri
+501000,Russell
+501100,Paihia
+501200,Haruru Falls
+501300,Opua East
+501400,Kawakawa
+501500,Moerewa
+501612,Opua West
+501614,Kapiro
+501615,Waitangi
+501620,Pokere-Waihaha
+501631,Okaihau
+501632,Ohaeawai
+501633,Waihou Valley-Hupara
+501634,Ngapuhi-Kaikou
+501700,Kaikohe
+501802,Opouteke-Tanekaha
+501806,Marsden Point-Ruakaka
+501807,Ngunguru
+501809,Wharekohe-Oakleigh
+501810,Maungatapere
+501811,Waiotira-Springfield
+501814,Punaruku-Kiripaka
+501815,Bream Bay
+501816,Waipu
+501817,Pataua-Whareora
+501818,Parua Bay
+501819,Bream Head
+502001,Springs Flat
+502002,Three Mile Bush
+502003,Te Hihi
+502004,Abbey Caves
+502005,Otaika-Portland
+502101,Kamo West
+502102,Kamo East
+502201,Tikipunga West
+502202,Tikipunga East
+502300,Whau Valley
+502400,Otangarei
+502500,Western Hills
+502600,Kensington
+502700,Mairtown
+502800,Regent
+502900,Woodhill
+503000,Vinetown
+503100,Whangarei Central
+503200,Riverside
+503300,Horahora
+503400,Maunu
+503500,Raumanga East
+503600,Morningside
+503700,Parahaki
+503800,Raumanga West
+503900,Port-Limeburners
+504000,Sherwood Rise
+504100,Onerahi
+504300,Hikurangi
+504400,Te Kopuru
+504501,Kaipara Coastal
+504502,Maungaru
+504600,Dargaville
+504700,Maungaturoto
+504800,Ruawai
+504900,Kaiwaka
+505010,Rehia-Oneriri
+505021,Mangawhai
+505022,Mangawhai Heads
+505300,Wellsford
+505400,Leigh
+505500,Warkworth
+505601,Waimauku
+505602,Huapai
+505603,Riverhead Urban
+505604,Kumeu East
+505605,Kumeu West
+505700,Waipareira West
+505803,Waiwera
+505804,Hatfields Beach
+505805,Orewa
+505806,Silverdale Central
+505807,Red Beach West
+505808,Red Beach East
+505902,Manly
+505904,Army Bay
+505906,Vipond
+505907,Stanmore Bay West
+505908,Stanmore Bay East
+505909,Wade Heads
+505910,Gulf Harbour
+506001,Weiti River
+506002,Stillwater
+506003,Silverdale South
+506201,Silverdale North
+506202,Orewa West
+506300,Dairy Flat-Redvale
+506400,Paremoremo West
+506613,Tauhoa-Puhoi
+506614,Tahekeroa
+506616,Matheson Bay
+506620,Kawau
+506631,Snells Beach
+506633,Algies Bay
+506634,Mahurangi
+506642,South Head
+506644,Parakai Rural
+506645,Parakai Urban
+506646,Kaukapakapa Rural
+506647,Kaukapakapa
+506648,Helensville South
+506652,Rewiti
+506653,Riverhead
+506654,Muriwai Beach
+506655,Muriwai Valley
+506656,Waitakere West
+506657,Point Wells
+506658,Omaha
+506659,Matakana
+506660,Cape Rodney
+506661,Cape Rodney South
+506800,Helensville
+506901,Awaruku
+506902,Glamorgan
+506903,Torbay
+507000,Waiake
+507101,Browns Bay
+507102,Oaktree
+507200,Rothesay Bay
+507300,Murrays Bay
+507400,Mairangi Bay
+507500,Campbells Bay
+507710,Castor Bay
+507720,Crown Hill
+507800,Lake Pupuke
+507900,Westlake
+508010,Takapuna Central
+508020,Hauraki
+508110,Seacliffe
+508120,Bayswater
+508210,Kaipatiki
+508220,Windy Ridge
+508310,Glenfield Central
+508320,Glenfield North
+508411,Glendhu
+508412,Witheford
+508420,Target Road
+508510,Forrest Hill
+508520,Sunnynook
+508610,Monarch Park
+508620,Sunnybrae
+508701,Albany
+508703,Fairview
+508704,Northcross
+508803,Unsworth Heights
+508804,Pinehill
+508805,Windsor Park
+508806,North Harbour West
+508807,North Harbour East
+508900,Long Bay
+509000,Paremoremo East
+509100,Greenhithe
+509300,Narrow Neck
+509400,Mt Victoria
+509500,Stanley Bay
+509701,Ocean View
+509702,Tuff Crater
+509800,Northcote South
+510010,Beachhaven North
+510020,Beachhaven South
+510210,Birkdale North
+510220,Birkdale South
+510401,Kauri Park
+510402,Chelsea
+510500,Birkenhead East
+510700,Henderson North
+510800,Henderson South
+511001,Tangutu
+511002,Woodglen
+511100,Glen Eden East
+511301,New Lynn North
+511302,New Lynn South
+511303,Lynnmall
+511401,Fruitvale
+511402,Rewarewa
+511601,Glendene North
+511602,Glendene South
+511700,Kelston Central
+511800,Sunnyvale
+511901,Kaurilands
+511902,Crum Park
+512000,Titirangi South
+512100,Green Bay
+512201,Matipo
+512202,Durham Green
+512300,Te Atatu Central
+512401,Edmonton
+512402,Wakeling
+512500,Mcleod
+512600,Konini
+512700,Waima
+512801,Laingholm
+512802,Armour Bay
+512902,Otimai
+512903,Parrs Park West
+512904,Parrs Park
+512905,Oratia West
+512906,Oratia
+513011,Henderson West
+513012,Palm Heights
+513013,McLaren Park
+513020,Opanuku
+513101,Swanson
+513102,Swanson South
+513211,Urlich
+513212,Starling Park
+513213,Ranui Domain
+513214,Ranui South
+513220,Sturges North
+513301,Kingdale
+513302,Fairdene
+513410,Whenuapai West
+513420,Herald
+513431,Hobsonville East
+513432,Hobsonville South
+513511,Westgate
+513512,Royal Road West
+513521,West Harbour
+513522,Lucken Point
+513530,Royal Heights
+513610,Massey West
+513621,Birdwood West
+513622,Birdwood East
+513631,Waimumu North
+513632,Waimumu South
+513701,Taupaki
+513702,Waitakere
+513800,Karekare
+514000,Freemans Bay
+514101,Auckland Harbourside
+514102,Auckland Central West
+514103,Auckland Central East
+514200,Newton
+514301,Grafton West
+514302,Grafton East
+514401,Roberton
+514402,Glenavon
+514500,New Windsor
+514600,Avondale South
+514700,Blockhouse Bay
+514801,Rosebank
+514802,Avondale West
+514900,Waterview
+515001,Point Chevalier West
+515002,Point Chevalier East
+515003,Point Chevalier South
+515100,Westmere
+515201,Herne Bay
+515202,St Marys
+515301,Ponsonby West
+515302,Ponsonby East
+515410,Grey Lynn West
+515420,Grey Lynn East
+515431,Surrey Crescent
+515432,St Lukes North
+515500,Arch Hill
+515600,Eden Terrace
+515700,Epsom North
+515801,Epsom Central
+515802,Epsom South
+515901,Parnell East
+515902,Parnell West
+516001,Mt Hobson
+516002,Remuera South
+516003,Abbotts Park
+516101,Remuera West
+516102,Waitaramoa
+516201,Orakei South
+516202,Waiata
+516301,Meadowbank North
+516302,Meadowbank South
+516400,Orakei North
+516500,Mission Bay
+516601,Kohimarama West
+516602,Kohimarama East
+516700,St Heliers
+516800,Glendowie
+516900,Glen Innes North
+517001,Glen Innes West
+517002,Glen Innes East
+517100,Point England
+517201,St Johns
+517202,Stonefields
+517400,Newmarket
+517500,Kingsland
+517600,St Lukes
+517701,Sandringham North
+517702,Sandringham West
+517703,Sandringham East
+517800,Mt Albert Central
+517901,Springleigh
+517902,Owairaka West
+517903,Owairaka East
+518101,Mt Eden North
+518102,Sherbourne
+518201,Balmoral
+518202,Mt Eden East
+518301,Maungawhau
+518302,Mt Eden South
+518500,Three Kings
+518600,Royal Oak
+518701,Hillsborough West
+518702,Hillsborough East
+518801,Walmsley
+518802,Wesley
+518803,Akarana
+518901,Lynfield North
+518902,Lynfield South
+519001,Waikowhai West
+519002,Waikowhai East
+519200,Mt St John
+519300,One Tree Hill Central
+519400,One Tree Hill East
+519500,Penrose
+519710,Onehunga North West
+519720,Onehunga North East
+519810,Onehunga South West
+519820,Onehunga South East
+519900,Oranga
+520000,Te Papapa
+520201,Ellerslie North
+520202,Ellerslie South
+520301,Mt Wellington Domain
+520302,Mt Wellington West
+520303,Mt Wellington North
+520401,Ferndale
+520402,Hamlin
+520500,Mt Wellington South
+520601,Tamaki
+520602,Panmure Basin
+520801,Waiheke Island
+520900,Islands-Motutapu Rangitoto Rakino
+521000,Great Barrier Island
+521111,Paerata-Cape Hill
+521112,Eden Road-Hill Top
+521114,Redoubt
+521115,Opuawhanga
+521116,Buckland
+521117,Buckland South
+521121,Patumahoe
+521122,Kingseat
+521131,Pokeno
+521132,Hunua
+521134,Paparata
+521135,Mangatawhiri
+521136,Kaiaua
+521151,Awhitu
+521152,Glenbrook
+521153,Otaua
+521160,Bombay
+521201,Hingaia
+521202,Whangapouri Creek
+521203,Bremner
+521301,Drury
+521302,Runciman
+521501,Mellons Bay
+521502,Cockle Bay
+521601,Howick West
+521602,Howick Central
+521801,Otahuhu North
+521802,Fairburn
+521803,Otahuhu East
+521901,Otahuhu West
+521902,Middlemore
+522100,Papatoetoe West
+522201,Papatoetoe North
+522202,Papatoetoe Central
+522301,Dingwall
+522302,Papatoetoe East
+522400,Puhinui North
+522601,Bucklands and Eastern Beaches
+522603,Bleakhouse
+522604,Bucklands Beach South
+522711,Pigeon Mountain North
+522712,Murvale
+522721,Pigeon Mountain South
+522722,Highland Park
+522723,Elsmore Park
+522730,Half Moon Bay
+522810,Pakuranga North
+522820,Sunnyhills
+522910,Pakuranga Central
+522920,Edgewater
+523000,Pakuranga East
+523101,Howick South
+523102,Meadowland
+523105,Golfland
+523106,Millhouse
+523107,Burswood
+523109,Dannemora
+523110,Kilkenny
+523112,Highbrook
+523113,Greenmount
+523114,Point View
+523115,Baverstock Oaks
+523116,Mission Heights
+523201,Shelly Park
+523202,Turanga
+523300,Beachlands-Maraetai
+523402,Otara West
+523403,Wymondley
+523404,Grange
+523501,Otara North
+523502,Otara East
+523601,Otara South
+523602,Ferguson
+523711,Rongomai
+523712,Donegal Park
+523713,Ormiston
+523721,Clover Park
+523722,Redoubt North
+523813,Ardmore
+523814,Totara Heights
+523816,Randwick Park
+523817,Hyperion
+523818,Redoubt East
+523819,Mill Road
+523820,Redoubt South
+523911,Takanini North
+523912,Takanini South
+523920,Takanini West
+524001,Ambury
+524002,Mangere Bridge
+524111,Mangere Central
+524112,Mascot
+524121,Arahanga
+524122,Viscount
+524200,Mangere South
+524301,Mangere East
+524302,Aorere
+524303,Kohuora
+524402,Mangere Station
+524403,Favona West
+524404,Favona North
+524405,Favona South
+524510,Harania North
+524520,Harania West
+524530,Harania East
+524602,Wiri
+524603,Puhinui South
+524604,Manukau Central
+524711,Burbank
+524712,Homai West
+524713,Rowandale
+524720,Homai East
+524811,Weymouth West
+524812,Weymouth East
+524821,Clendon North
+524822,Clendon South
+524901,Hillpark
+524902,Manurewa East
+525001,Manurewa Central
+525002,Beaumont
+525101,Leabank
+525102,Wattle Farm
+525201,Clevedon
+525202,Kawakawa-Orere
+525410,Papakura Central
+525420,Papakura North
+525510,Papakura South
+525520,Opaheke
+525530,Rosehill
+525540,Pahurehure
+525610,Papakura East
+525620,Massey Park
+525630,Papakura North East
+525700,Red Hill
+525910,Pukekohe North
+525921,Pukekohe West
+525922,Bledisloe Park
+526103,Waiuku West
+526104,Waiuku East
+526105,South Waiuku
+526106,Pukeoware
+526200,Tuakau
+526400,Rotowaro
+526500,Raglan
+526601,Waikato Western Hills
+526602,Te Uku
+526603,Te Pahu
+526701,Onewhero
+526702,Te Akau
+526900,Te Kauwhata
+527004,Matangi
+527005,Sylvester
+527006,Flagstaff
+527007,Horsham Downs
+527008,Rototuna
+527009,Huntington
+527111,Whitikahu
+527112,Taupiri Community
+527122,Gordonton
+527123,Kainui
+527124,Newstead
+527125,Eureka
+527131,Tamahere-Tauwhare
+527133,Hautapu
+527134,Swayne
+527210,Waerenga
+527221,Maramarua
+527222,Meremere
+527401,Huntly West
+527402,Huntly East
+527501,Cambridge North
+527502,Cambridge West
+527503,Cambridge Central
+527504,Leamington West
+527505,Leamington East
+527600,Ohaupo
+527700,Kihikihi
+527810,Peacocke
+527820,Temple View
+527912,Te Kowhai
+527913,Whatawhata
+527914,Ngahinapouri
+527915,Lake Cameron
+527916,Horotiu
+527917,Te Rapa North
+527921,Te Rore
+527922,Pirongia
+527923,Pokuru
+527924,Lake Ngaroto
+527925,Tokanui
+527931,Pukerimu
+527932,Kaipaki
+527934,Rotoorangi
+527935,Te Rahu
+527936,Kihikihi Flat
+527937,Allen Road
+528000,Rotongata
+528200,Ngaruawahia
+528310,Bryant
+528320,Pukete
+528402,Pukete West
+528403,Te Rapa
+528405,Burbush
+528406,Rotokauri
+528501,Nawton
+528503,Crawshaw
+528504,Grandview
+528505,Brymer
+528601,Dinsdale North
+528602,Dinsdale South
+528700,Beerescourt
+528800,Maeroa
+528900,Frankton Junction
+529000,Swarbrick
+529100,Hamilton Lake
+529200,Melville
+529300,Glenview
+529401,Queenwood
+529402,Chedworth
+529501,Porritt
+529502,Insoll
+529503,Fairview Downs
+529600,Chartwell
+529700,Hamilton Central
+529800,Clarkin
+529900,Claudelands
+530000,Enderley
+530100,Peachgrove
+530200,Hamilton East
+530300,Naylor
+530400,Bader
+530500,University
+530600,Silverdale
+530700,Hillcrest West
+530800,Riverlea
+531001,Te Awamutu West
+531002,Te Awamutu Central
+531003,Te Awamutu East
+531004,Te Awamutu South
+531100,Kawhia Community
+531200,Otorohanga
+531301,Otorohanga Rural West
+531303,Te Kawa
+531304,Otorohanga Rural East
+531500,Piopio
+531600,Taharoa
+531710,Mahoenui
+531720,Marokopa
+531731,Waipa Valley
+531732,Tiroa
+531800,Mokauiti
+532000,Te Kuiti
+532200,Omori
+532300,Owhango
+532400,Ohura
+532501,Ngapuke
+532502,Kuratau
+532601,Raurimu
+532602,National Park
+532700,Otangiwai-Heao
+532901,Tarrangower
+532902,Taumarunui Central
+532903,Sunshine-Hospital Hill
+532904,Manunui
+533000,Whitianga
+533100,Coromandel
+533200,Te Rerenga
+533300,Whangamata
+533400,Tairua
+533501,Moanataiari
+533502,Parawai
+533602,Pauanui Beach
+533603,Hikuai
+533604,Te Puru-Thornton Bay
+533800,Ngatea
+533901,Hauraki Plains
+533902,Turua
+533903,Kerepehi
+534100,Waihi Beach
+534200,Ohinemuri
+534300,Paeroa
+534400,Waihi
+534500,Tahuroa
+534602,Waitoa
+534603,Springdale
+534604,Waihou-Walton
+534800,Te Aroha
+534901,Morrinsville West
+534902,Morrinsville East
+535000,Waharoa
+535100,Tirau
+535211,Mangakaretu
+535212,Kinleith
+535220,Okauia
+535231,Te Poi
+535232,Tapapa
+535241,Karapiro
+535242,Hinuera
+535250,Arapuni
+535261,Lichfield
+535262,Wawa
+535310,Paraonui
+535320,Parkdale
+535330,Matarawa
+535340,Stanley Park
+535350,Tokoroa Central
+535360,Aotea
+535370,Strathmore
+535380,Amisfield
+535501,Matamata North
+535502,Matamata South
+535600,Putaruru
+535700,Athenree
+535800,Katikati Community
+535900,Maketu Community
+536000,Omokoroa
+536201,Papamoa Beach East
+536202,Palm Springs
+536203,Doncaster
+536400,Island View-Pios Beach
+536503,Te Puna
+536505,Matapihi
+536508,Inlet-Tauranga Harbour
+536510,Motuopae Island
+536512,Kairua
+536513,Bethlehem East
+536514,Bethlehem
+536515,Pacific View
+536516,Palm Beach
+536517,Gravatt
+536611,Matakana Island
+536613,Inlet-Tauranga Harbour North
+536614,Tahawai
+536615,Aongatete
+536620,Minden
+536630,Kaimai
+536641,Ohauiti-Ngapeke
+536642,Upper Papamoa
+536651,Paengaroa
+536653,Rangiuru
+536654,Pongakawa
+536810,Mt Maunganui North
+536821,Omanu
+536831,Arataki
+536832,Te Maunga
+537000,Matua
+537100,Bellevue
+537201,Otumoetai North
+537202,Otumoetai South
+537301,Brookfield
+537302,Te Reti
+537400,Judea
+537500,Gate Pa
+537601,Greerton
+537602,Pyes Pa
+537700,Yatton Park
+537800,Poike
+537900,Hairini
+538000,Maungatapu
+538101,Tauranga Hospital
+538102,Tauranga South
+538201,Tauranga Central
+538202,Sulphur Point
+538301,Kaitemako
+538302,Welcome Bay West
+538303,Welcome Bay East
+538501,Te Puke West
+538502,Te Puke East
+538601,Ngongotaha North
+538602,Ngongotaha South
+538721,Poets Corner
+538722,Ngapuna
+538731,Owhata South
+538732,Lynmore
+538741,Owhata West
+538742,Owhata East
+538811,Hamurana
+538812,Inland Water-Lake Rotorua
+538820,Tikitere
+538831,Kaingaroa Forest
+538832,Tarawera
+538841,Golden Springs
+538842,Reporoa
+538850,Ngakuru
+538861,Arahiwi
+538863,Waiwhero
+538864,Mamaku
+539000,Selwyn Heights
+539100,Western Heights
+539200,Fairy Springs
+539310,Pukehangi North
+539320,Pukehangi South
+539400,Mangakakahi
+539500,Sunnybrook
+539600,Fordlands
+539700,Utuhina
+539800,Pomare
+539900,Hillcrest
+540000,Springfield
+540100,Kawaha Point
+540200,Koutu
+540300,Ohinemutu
+540410,Kuirau
+540420,Victoria
+540510,Glenholme East
+540520,Glenholme West
+540600,Fenton
+540700,Whaka
+540900,Mangakino
+541000,Turangi
+541311,Acacia Bay
+541312,Wairakei-Aratiatia
+541313,Maunganamu
+541315,Taupo East
+541316,Wharewaka
+541317,Rangatira Park
+541318,Rangatira
+541319,Lakewood
+541320,Marotiri
+541333,Kinloch
+541334,Tatua
+541335,Oruanui
+541342,Rangitaiki
+541344,Broadlands
+541345,Waitahanui
+541346,Tongariro
+541347,Motuoapa
+541348,Tokaanu
+541501,Rangipo
+541502,Te More
+541503,Taharua
+541710,Nukuhau
+541720,Taupo Central
+541730,Tauhara
+541740,Hilltop
+541750,Waipahihi
+541760,Richmond Heights
+541900,Ohope
+542000,Matata
+542100,Taneatua
+542200,Edgecumbe
+542300,Te Teko
+542410,Whakatane North
+542421,Coastlands
+542422,Whakatane West
+542430,Trident
+542440,Allandale-Mokorua
+542511,Orini
+542514,Maraetotara
+542520,Poroporo
+542530,Otakiri
+542540,Rotoma
+542550,Matahina-Minginui
+542561,Waimana
+542562,Urewera
+542600,Kawerau
+542700,Murupara
+542800,Opotiki
+542901,Te Kaha
+542903,Cape Runaway
+542904,Oponae
+542906,Waiotahi
+543301,East Cape
+543302,Ruatoria
+543303,Tokomaru Bay
+543601,Tarndale-Rakauroa
+543602,Te Karaka
+543800,Patutahi
+543901,Makaraka
+543902,Matokitoki
+543903,Wainui
+544001,Wharekaka
+544002,Tiniroto
+544003,Manutuke
+544004,Tolaga Bay
+544200,Mangapapa
+544300,Te Hapara
+544400,Gisborne Airport
+544500,Whataupoko
+544600,Gisborne Central
+544701,Kaiti North
+544702,Outer Kaiti
+544801,Kaiti South
+544802,Tamarau
+544900,Riverdale
+545201,Tuai
+545202,Frasertown
+545204,Ruakituri-Morere
+545205,Maungataniwha
+545206,Inland Water-Lake Waikaremoana
+545301,Raupunga
+545302,Whakaki
+545303,Nuhaka
+545304,Mahia
+545500,Wairoa
+545611,Bay View
+545621,Poraiti
+545631,Meeanee
+545632,Awatoto
+545710,Twyford
+545721,Karamu
+545722,Whakatu
+545730,Clive
+545740,Haumoana
+545750,Brookvale
+545761,Irongate
+545762,Longlands South
+545811,Tangoio
+545812,Eskdale
+545821,Sherenden-Puketapu
+545822,Omahu
+545831,Waiohiki
+545832,Pakowhai
+545841,Maraekakaho
+545842,Bridge Pa
+545851,Poukawa
+545852,Pakipaki
+545860,Waimarama
+545911,Tutira
+545912,Puketitiri
+545913,Whanawhana
+546100,Westshore
+546200,Ahuriri
+546300,Onekawa Central
+546400,Onekawa West
+546500,Onekawa South
+546600,Marewa
+546700,Maraenui
+546801,Hospital Hill
+546802,Bluff Hill
+546901,Nelson Park
+546902,Mclean Park
+547001,Tamatea North
+547002,Tamatea South
+547100,Greenmeadows
+547200,Taradale North
+547300,Taradale South
+547400,Pirimai
+547600,Mahora
+547700,St Leonards
+547800,Frimley
+547900,Raureka
+548000,Mayfair
+548100,Parkvale
+548200,Hastings Central
+548300,Akina
+548400,Woolwich
+548500,Camberley
+548611,Kingsley-Chatham
+548612,Lochain
+548620,Flaxmere East
+548810,Anderson Park
+548821,Iona
+548822,Havelock Hills
+548831,Te Mata
+548832,Havelock North Central
+548833,Te Mata Hills
+549000,Takapau
+549100,Waipawa
+549200,Tikokino
+549400,Otane
+549500,Waipukurau
+549601,Porangahau
+549602,Elsthorpe-Flemington
+549800,Norsewood-Herbertville
+549901,Owahanga
+549902,Mara
+550101,Dannevirke West
+550102,Dannevirke East
+550200,Papatawa
+550500,Woodville
+550600,Urenui
+550700,Okoki-Okau
+550800,Oakura
+550901,Bell Block
+550902,Paraite
+551012,Glen Avon
+551013,Bowden
+551014,Mangaoraka
+551021,Carrington
+551022,Highlands Park
+551023,Fernleigh
+551024,Barrett
+551030,Omata
+551111,Lepperton
+551112,Kaitake
+551120,Okato
+551301,Waitara West
+551302,Waitara East
+551400,Moturoa
+551501,Lynmouth
+551502,Spotswood
+551503,Marfell
+551600,Upper Westown
+551700,Westown
+551800,New Plymouth Central
+551900,Kawaroa
+552001,Mount Bryan
+552002,Marsland Hill
+552100,Fitzroy
+552200,Welbourn
+552300,Merrilands
+552400,Frankleigh
+552500,Struan Park
+552701,Egmont Village
+552702,Kaimata
+552800,Inglewood
+552900,Midhirst
+553001,Whangamomona
+553002,Douglas
+553003,Toko
+553004,Pembroke
+553101,Stratford West
+553102,Stratford East
+553200,Opunake
+553301,Rahotu
+553302,Kahui
+553400,Kaponga
+553500,Mangatoki-Moeroa
+553601,Eltham
+553700,Kapuni
+553800,Manaia
+553900,Normanby
+554010,Hawera North
+554020,Hawera South
+554111,Ohawe Beach
+554113,Tawhiti
+554114,Waingongoro
+554115,Hawera West
+554120,Ohangai
+554130,Okaiawa
+554300,Waitotara
+554400,Whenuakura
+554500,Makakaho
+554700,Patea
+554800,Waverley
+554900,Tangiwai
+555000,Ohakune
+555100,Raetihi
+555200,Otamatea
+555300,Blueskin
+555400,Maxwell
+555700,Castlecliff North
+555800,Castlecliff South
+555900,Mosston
+556000,Balgownie
+556100,Tawhero
+556200,Gonville South
+556300,Gonville East
+556400,Gonville West
+556500,Springvale West
+556600,Springvale East
+556700,Wanganui Collegiate
+556800,Laird Park
+556900,Wanganui Central
+557000,Spriggens Park
+557100,Cooks Gardens
+557200,St Johns Hill
+557300,Lower Aramoho
+557400,Upper Aramoho
+557500,Williams Domain
+557600,Wembley Park
+557700,Kowhai Park
+557800,Bastia Hill
+557900,Durie Hill
+558100,Putiki
+558200,Marybank-Gordon Park
+558300,Fordell-Kakatahi
+558500,Waiouru
+558600,Mangaweka
+558700,Hunterville
+558800,Ratana Community
+558900,Bulls
+559000,Ngamatea
+559210,Moawhango
+559220,Pohonui-Porewa
+559230,Lake Alice
+559240,Koitiata
+559400,Taihape
+559500,Marton
+559700,Kiwitea
+560000,Pohangina
+560200,Ashhurst
+560301,Stoney Creek
+560302,Whakarongo
+560411,Oroua Bridge
+560412,Maewa
+560421,Halcombe
+560422,Tokorangi-Hiwinui
+560710,Feilding North
+560720,Feilding West
+560730,Feilding Central
+560740,Feilding East
+560900,Sanson
+561000,Rongotea
+561100,Tangimoana
+561200,Himatangi Beach
+561300,Foxton Beach
+561410,Rakiraki
+561421,Ohakea
+561422,Oroua Downs-Waitohi
+561500,Moutoa
+561700,Foxton
+561811,Kairanga
+561812,Longburn
+561813,Massey University
+561820,Linton Military Camp
+561901,Kauwhata
+561902,Turitea
+562100,Milson
+562200,Kelvin Grove
+562310,Takaro
+562320,Cloverlea
+562401,Palmerston North Hospital
+562402,Papaeoia
+562500,Roslyn
+562600,Terrace End
+562710,Highbury
+562720,Westbrook
+562800,Palmerston North Central
+562910,Awapuni North
+562921,Awapuni West
+562922,Awapuni South
+563000,West End
+563101,Hokowhitu West
+563102,Hokowhitu Lagoon
+563200,Hokowhitu East
+563300,Aokautere
+563500,Shannon
+563600,Waitarere
+563701,Waikanae Beach
+563703,Waikanae East
+563704,Peka Peka
+563705,Waikanae Park
+563706,Waikanae West
+563801,Tokomaru
+563802,Opiki
+563920,Kaitawa
+564011,Lake Horowhenua
+564012,Waiopehu
+564013,Kohitere
+564021,Mangaore-Manakau
+564022,Otaki Forks
+564023,Te Horo
+564210,Levin North
+564220,Levin West
+564231,Playford Park
+564232,Levin South
+564240,Levin East
+564400,Otaki
+564510,Heretaunga
+564520,Trentham South
+564530,Pinehaven
+564601,Moonshine Valley
+564602,Riverstone Terraces
+564800,Glendale
+564900,Parkway
+565000,Fernlea
+565100,Arakura
+565200,Homedale West
+565300,Homedale East
+565400,Pencarrow
+565601,Pauatahanui
+565602,Endeavour
+565603,Resolution
+565604,Adventure
+565700,Paekakariki Hill
+565901,Paraparaumu Beach North
+565902,Otaihanga
+565903,Paraparaumu Beach South
+566000,Paraparaumu Central
+566101,Raumati Beach
+566102,Raumati South
+566200,Paekakariki
+566301,Kapiti Island
+566302,Maungakotukutuku
+566500,Te Marua
+566610,Akatarawa
+566620,Emerald Hill
+566700,Maoribank
+566800,Clouston Park
+566900,Totara Park
+567000,Ebdentown
+567100,Upper Hutt Central
+567200,Maidstone
+567300,Wallaceville
+567400,Elderslea
+567500,Poets Block
+567600,Brentwood
+567700,Trentham North
+567800,Heretaunga-Silverstream
+567901,Cloustonville
+567902,Mangaroa
+568101,Tawhai
+568102,Holborn
+568103,Delaney
+568104,Manuka
+568201,Taita North
+568202,Taita South
+568301,Avalon East
+568302,Naenae North
+568303,Naenae South
+568401,Avalon West
+568402,Boulcott
+568501,Epuni West
+568502,Epuni East
+568601,Waterloo West
+568602,Waterloo East
+568701,Waiwhetu North
+568702,Waiwhetu South
+568800,Gracefield
+568900,Moera
+569001,Woburn North
+569002,Woburn South
+569100,Hutt Central
+569201,Melling
+569202,Alicetown
+569301,Normandale
+569302,Maungaraki
+569401,Tirohanga
+569402,Belmont
+569500,Kelson
+569600,Haywards-Manor Park
+569800,Korokoro
+569900,Petone Central
+570000,Esplanade
+570100,Wilford
+570300,Eastbourne
+570400,Titahi Bay North
+570500,Onepoto
+570600,Titahi Bay South
+570700,Elsdon-Takapuwahia
+570800,Porirua Central
+570900,Porirua East
+571000,Ranui Heights
+571100,Cannons Creek North
+571200,Cannons Creek South
+571300,Cannons Creek East
+571400,Waitangirua
+571501,Papakowhai North
+571502,Papakowhai South
+571600,Ascot Park
+571800,Pukerua Bay
+571900,Plimmerton
+572000,Mana-Camborne
+572100,Paremata-Postgate
+572200,Discovery
+572300,Mana Island
+572500,Tawa South
+572600,Tawa Central
+572701,Linden
+572702,Greenacres
+572900,Thorndon-Tinakori Road
+573000,Lambton
+573101,Willis Street-Cambridge Terrace
+573200,Aro Street-Nairn Street
+573300,Mt Cook-Wallace Street
+573400,Mt Victoria West
+573511,Glenside North
+573513,Churton Park North
+573514,Churton Park South
+573522,Grenada North
+573523,Grenada Village
+573524,Newlands East
+573525,Takapu
+573526,Horokiwi
+573600,Johnsonville North
+573700,Johnsonville Central
+573801,Paparangi West
+573802,Johnsonville East
+573901,Paparangi
+573902,Woodridge
+573903,Newlands North
+574001,Newlands South
+574002,Ngauranga East
+574100,Raroa
+574200,Khandallah Park-Broadmeadows
+574302,Te Kainga
+574303,Ngauranga West
+574304,Rangoon Heights
+574401,Awarua
+574402,Ngaio South
+574500,Kaiwharawhara
+574600,Wadestown
+574701,Crofton Downs
+574702,Wilton
+574703,Northland North
+574800,Karori North
+574900,Karori Park
+575000,Karori East
+575100,Karori South
+575200,Northland
+575300,Kelburn
+575400,Taitville
+575500,Mitchelltown
+575600,Brooklyn
+575701,Vogeltown West
+575702,Vogeltown
+575800,Kingston-Mornington
+575901,Brooklyn South
+575902,Happy Valley-Owhiro Bay
+576001,Island Bay West
+576002,Island Bay East
+576100,Melrose-Houghton Bay-Southgate
+576200,Berhampore West
+576301,Newtown West
+576302,Berhampore East
+576400,Newtown East
+576500,Adelaide
+576600,Oriental Bay
+576700,Roseneath
+576800,Hataitai North
+576901,Kilbirnie East
+576903,Kilbirnie West-Hataitai South
+577000,Lyall Bay-Airport-Moa Point
+577101,Seatoun Tunnel West
+577102,Strathmore Park
+577200,Miramar South
+577301,Miramar North
+577302,Miramar
+577400,Karaka Bay-Worser Bay
+577500,Seatoun
+577601,Maupuia
+577602,Miramar West
+577700,Makara-Ohariu
+577900,Mangatainoka
+578000,Pahiatua
+578100,Eketahuna
+578200,Nireaha-Tiraumea
+578301,Homebush-Te Ore Ore
+578302,Opaki-Fernridge
+578401,Kopuaranga
+578402,Whareama
+578600,Masterton Central
+578700,Masterton West
+578800,Masterton East
+578901,Solway North
+578902,Solway South
+579000,Ngaumutawa
+579100,Masterton Railway
+579200,Lansdowne
+579400,Waingawa
+579501,Mt Holdsworth
+579502,Te Wharau
+579700,Carterton
+579802,Tuturumuri
+579803,Kahutara
+579804,Inland Water-Lake Wairarapa
+579900,Greytown
+580000,Featherston
+580100,Martinborough
+580200,Havelock
+580300,Renwick
+580410,Woodbourne
+580420,Omaka
+580431,Spring Creek-Grovetown
+580432,Riverlands
+580442,Waikawa
+580446,Marlborough Sounds Terrestrial
+580447,Wairau North
+580448,Tuamarina
+580449,Rapaura
+580450,Wairau South
+580451,Weld Pass
+580452,Fairhall
+580600,Severn
+580801,Ward
+580802,Seddon
+580900,Lake Tennyson
+581100,Picton
+581210,Springlands
+581220,Mayfield
+581230,Blenheim Central
+581240,Whitney
+581250,Redwoodtown
+581260,Witherlea
+581400,Kaikoura Township
+581500,Kaikoura Rural
+581601,Golden Bay
+581602,Takaka
+581713,Glenduan
+581715,Ngawhatu
+581717,Aniseed Hill
+581720,Hope
+581721,Saxton Island
+581723,Saxton
+581724,Best Island
+581725,Bell Island
+581726,Ranzau
+581811,Richmond Hill
+581812,Whangamoa
+581822,Brightwater
+581823,Wakefield
+581825,Mapua
+581832,Kaiteriteri
+581833,Motueka Outer
+581834,Rabbit Island
+581836,Wai-Iti
+581841,Golden Downs
+581842,Lake Rotoroa
+581843,Murchison
+581844,Tapawera
+581850,Riwaka
+582000,Clifton
+582100,Atawhai
+582200,Port Nelson
+582300,The Wood
+582401,Britannia
+582402,Washington
+582500,Trafalgar
+582600,Maitai
+582700,Kirks
+582800,Bronte
+582900,Atmore
+583000,Tahunanui
+583100,Tahuna Hills
+583201,Toi Toi
+583202,Broads
+583300,Grampians
+583400,The Brook
+583500,Nelson Airport
+583600,Nayland
+583700,Enner Glynn
+583800,Maitlands
+583900,Isel Park
+584000,Langbein
+584201,Richmond East
+584202,Richmond West
+584301,Motueka West
+584303,Motueka East
+584305,Jackett Island
+584402,Karamea
+584403,Hector-Ngakawau
+584404,Granity
+584405,Orowaiti
+584407,Little Wanganui
+584408,Mokihinui
+584409,Buller Coalfields
+584410,Westport Rural
+584411,Charleston
+584412,Inangahua Junction
+584500,Westport Urban
+584600,Reefton
+584701,Inangahua Valley
+584702,Mawheraiti
+584703,Maruia
+584800,Karoro
+584911,Kaiata
+584912,South Beach-Camerons
+584922,Blackball
+584923,Point Elizabeth
+584930,Dobson
+584931,Barrytown
+584932,Coal Creek
+584933,Atarau
+584934,Greymouth Rural
+584935,Marsden-Hohonu
+584936,Arnold Valley
+584937,Nelson Creek-Ngahere
+584938,Ahaura
+584939,Lake Brunner
+584940,Haupiri
+585000,Runanga-Rapahoe
+585110,Cobden
+585120,Blaketown
+585130,Greymouth Central
+585140,Greymouth South
+585306,Kumara
+585307,Kaniere
+585309,Ross
+585311,Harihari
+585312,Franz Josef
+585313,Fox Glacier
+585314,Taramakau
+585315,Otira
+585316,Waimea-Arahura
+585317,Hokitika Rural
+585318,Hokitika Valley
+585319,Totara River
+585320,Waitaha
+585321,Whataroa
+585322,Waiho
+585323,Karangarua
+585324,Bruce Bay-Paringa
+585325,Haast
+585400,Hokitika Urban
+585502,Hanmer Springs
+585504,Culverden
+585505,Waiau
+585506,Amuri
+585601,Parnassus
+585602,Cheviot
+585700,Hurunui
+585802,Amberley
+585803,Leithfield
+585805,Sefton
+585806,Okuku
+585807,Loburn
+585808,Ashley
+586001,Camside
+586002,Pines-Kairaki Beach
+586112,Waikuku
+586114,Cust
+586115,Mairaki
+586120,Woodend
+586121,Fernside
+586122,Lehmans
+586124,Pegasus
+586126,Woodend Beach
+586127,Coldstream
+586128,Ravenswood
+586129,Tuahiwi
+586130,Woodend West
+586303,Rangiora East
+586304,Southbrook
+586305,Kingsbury
+586306,Rangiora North
+586307,Rangiora West
+586308,Rangiora Central
+586403,Kaiapoi South
+586404,Mansfield
+586405,Courtenay
+586407,Kaiapoi East
+586408,Kaiapoi North West
+586409,Kaiapoi North East
+586501,Clarkville
+586503,Kaiapoi West
+586504,Silverstream
+586603,Mandeville
+586604,Ohoka
+586605,West Eyreton
+586606,Eyrewell
+586801,Ashley Gorge
+586802,Oxford
+586900,Darfield
+587010,Kirwee
+587020,Burnham Military Camp
+587100,Malvern
+587302,Halswell South
+587303,Oaklands West
+587304,Oaklands East
+587400,Hornby North
+587500,Hornby South
+587701,Sockburn
+587702,Wigram
+587811,Yaldhurst
+587812,Broomfield
+587821,Paparua
+587822,Templeton
+587830,Islington
+587842,Halswell West
+587844,Westmorland
+587845,Aidanfield
+587846,Halswell Domain
+587847,Hendersons Basin
+587848,Prebbleton
+587849,Trents-Ladbrooks
+587902,Mcleans Island
+587903,Kennedys Bush
+587904,West Melton
+587905,Taitapu
+588101,Redwood North
+588102,Redwood South
+588200,Styx Mill
+588300,Casebrook
+588401,Belfast South
+588402,Sawyers Arms
+588500,Bishopdale North
+588600,Harewood
+588700,Bishopdale
+588800,Russley
+588900,Burnside
+589000,Wairarapa
+589100,Jellie Park
+589200,Bryndwr
+589300,Holmwood
+589400,Fendalton
+589500,Deans Bush
+589601,Hawthornden
+589602,Merrin
+589700,Westburn
+589800,Avonhead West
+589900,Avonhead
+590000,Ilam
+590100,Upper Riccarton
+590200,Wharenui
+590300,Middleton
+590400,Belfast
+590501,Travis Wetland
+590504,Mairehau North
+590505,Westhaven
+590506,Highfield Park
+590507,Prestons
+590602,Parklands
+590603,Waimairi Beach
+590604,Styx
+590701,Mona Vale
+590702,Riccarton West
+590800,Riccarton
+590900,Riccarton South
+591101,Cashmere West
+591102,Cashmere East
+591200,Rapaki Track
+591300,Heathcote Valley
+591500,Cathedral Square
+591600,Hagley Park
+591700,Avon Loop
+591800,Northcote
+591900,Papanui
+592000,Aorangi
+592100,Strowan
+592200,Merivale
+592300,Rutland
+592401,St Albans West
+592402,St Albans East
+592500,Mairehau
+592600,Edgeware
+592701,Shirley West
+592702,Shirley East
+592811,Burwood
+592812,Dallington
+592820,Travis
+592900,Avondale
+593000,Wainoni
+593100,Aranui
+593200,Richmond North
+593300,Richmond South
+593400,Avonside
+593501,Linwood
+593502,Phillipstown
+593600,Linwood North
+593700,Linwood East
+593800,Bexley
+593900,Bromley
+594010,Woolston West
+594020,Ferrymead
+594100,Woolston South
+594200,Ensors
+594300,Opawa
+594400,St Martins
+594500,Waltham
+594600,Sydenham
+594700,Addington
+594800,Barrington North
+594900,Barrington South
+595000,Spreydon
+595100,Hoon Hay
+595200,Hoon Hay South
+595300,Hillmorton
+595400,Somerfield
+595500,Beckenham
+595600,North Beach
+595700,Rawhiti
+595800,New Brighton
+595900,South Brighton
+596000,Mt Pleasant
+596102,Moncks Bay
+596200,Sumner
+596400,Lyttelton
+596502,Diamond Harbour
+596503,Governors Bay
+596504,Quail Island
+596600,Port Levy
+596800,Akaroa
+596901,Akaroa Harbour
+596902,Banks Peninsula Eastern Bays
+597000,Chatham Islands
+597101,Little River
+597102,Inland Water-Lake Ellesmere South
+597200,Lincoln
+597300,Leeston
+597400,Southbridge
+597503,Dunsandel
+597505,Inland Water-Lake Ellesmere North
+597506,Selwyn-Rakaia
+597507,Rolleston North West
+597508,Rolleston Central
+597509,Rolleston North East
+597510,Rolleston South West
+597512,Springston
+597513,Rolleston South East
+597600,Methven
+597712,Plains Railway
+597713,Ashburton North
+597714,Fairton
+597715,Ashburton East
+597720,Mt Somers
+597730,Hinds
+597741,Chertsey
+597742,Rakaia
+597811,Allenton West
+597812,Allenton East
+597820,Ashburton Central West
+597830,Netherby
+597840,Ashburton Central East
+597850,Hampstead
+597860,Tinwald
+598000,Winchester
+598201,Fairview-Scarborough
+598202,Otipua Creek-Washdyke Flat
+598311,Ben Mcleod
+598312,Orari
+598313,Levels
+598314,Pareora
+598320,Pleasant Point
+598500,Geraldine
+598600,Temuka
+598700,Washdyke
+598800,Waimataitai
+598900,Marchwiel
+599000,Maori Park
+599100,Highfield
+599200,Glenwood
+599300,Gleniti
+599400,Fraser Park
+599500,Seaview
+599600,Watlington
+599700,Parkside
+599800,Timaru Gardens
+599900,Redruth
+600100,Twizel Community
+600200,Fairlie
+600312,Mt Cook
+600320,Lake Tekapo
+600321,Inland Water-Lake Alexandrina
+600322,Inland Water-Lake Tekapo
+600323,Mackenzie
+600410,Waihao
+600420,St Andrews
+600500,Waimate
+600600,Weston
+600811,Pukeuri
+600812,Ardgowan
+600813,Cape Wanbrow
+600822,Duntroon
+600824,Kurow
+600826,Maheno
+600827,Omarama
+600828,Kakanui
+600830,Otematata
+600831,Aviemore
+600832,Inland Water-Lake Ohau
+600840,Hampden
+601010,Oamaru North
+601020,Orana Park
+601030,Oamaru Central
+601040,Oamaru South
+601200,Palmerston
+601301,Waihemo
+601302,Hyde
+601400,Waikouaiti
+601500,Aramoana
+601602,Waitati
+601603,Evansdale
+601604,Karitane
+601605,Warrington
+601700,Nenthorn
+601900,Fairfield
+602000,Brighton
+602100,Waldronville
+602200,Outram
+602300,Middlemarch
+602411,Wyllies Crossing
+602412,Wingatui
+602421,Kaikorai Hill
+602422,Saddle Hill
+602500,Taieri
+602600,Strath Taieri
+602800,Harbourside
+602900,Fernhill
+603000,High St-Stuart St
+603100,Stuart St-Frederick St
+603210,Opoho
+603220,Forrester Park
+603300,North East Valley
+603400,Pine Hill
+603500,Woodhaugh
+603601,North Dunedin
+603602,Otago University
+603710,Maori Hill
+603720,Balmacewen
+603810,Glenleith
+603820,Helensburgh
+603910,Wakari
+603920,Halfway Bush
+603930,Brockville
+604010,Roslyn North
+604020,Roslyn South
+604110,Mornington
+604120,Belleknowes
+604130,Kenmure
+604210,Caversham
+604221,Corstorphine West
+604222,Corstorphine East
+604300,Caledonian
+604410,South Dunedin
+604420,Forbury
+604500,St Clair
+604611,Musselburgh
+604612,Andersons Bay
+604620,Vauxhall
+604710,St Leonards-Blanket Bay
+604720,Ravensbourne
+604810,Inner Peninsula
+604821,Company Bay
+604822,Macandrew Bay
+604830,Broad Bay-Portobello
+604901,Taiaroa-Cape Saunders
+604902,Sandymount
+605100,Sawyers Bay
+605200,Port Chalmers
+605400,St Kilda West
+605500,St Kilda Central
+605600,St Kilda East
+605800,Green Island
+605910,Abbotsford
+605920,Concord
+606100,Mosgiel East
+606210,Mosgiel South
+606220,East Taieri
+606300,Bush Road
+606500,Benhar
+606600,Stirling
+606700,Bruce
+606800,Milton
+606900,Kaitangata
+607000,Clinton
+607100,Kaka Point
+607200,Owaka
+607300,Clutha
+607400,Balclutha
+607501,Teviot
+607502,Tuapeka
+607600,Tapanui
+607700,Lawrence
+607800,Roxburgh
+607900,Ranfurly
+608000,Maniototo
+608100,Naseby
+608302,Dunstan
+608303,Clyde
+608304,Hawea
+608305,Inland Water-Lake Hawea
+608500,Alexandra
+608600,Cromwell
+608700,Frankton
+608800,Wanaka
+609011,Milford
+609013,Glenorchy
+609014,Kingston South
+609022,Kelvin Heights
+609023,Sunshine Bay
+609027,Inland Water-Lake Wakatipu
+609028,Lake Hayes
+609029,Matukituki
+609030,Inland Water-Lake Wanaka
+609031,Outer Wakatipu
+609032,Wakatipu Basin
+609033,Frankton East
+609034,Lake Hayes South
+609035,Jacks Point
+609200,Arrowtown
+609302,Queenstown Hill
+609303,Arthurs Point
+609304,Queenstown Bay
+609400,Balfour Community
+609500,Riversdale Community
+609600,Lumsden Community
+609700,Edendale Community
+609800,Wyndham
+609911,Makarewa North
+609912,Makarewa
+609913,Bay Road West
+609914,Mill Road-Woodend
+609921,Bushy Point
+609922,Otatara
+610010,Charlton
+610020,Waikaia
+610031,Kaweku
+610032,Chatton
+610033,Kaiwera
+610040,Hokonui
+610051,Waianiwa
+610052,Oreti Beach
+610061,Dacre
+610062,Myross Bush
+610072,Waituna
+610073,Woodlands
+610074,Greenhills
+610075,Tiwai Point
+610080,Toetoes
+610090,Wallacetown
+610210,North Gore
+610220,East Gore
+610230,Central Gore
+610240,West Gore
+610250,South Gore
+610400,Mataura
+610500,Winton
+610601,Grasmere
+610602,Waikiwi
+610700,Rosedale
+610800,Gladstone-Avenal
+610900,Windsor
+611001,Waverley-Glengarry
+611002,Hawthorndale
+611100,Richmond
+611210,Otakaro Park
+611220,Crinan
+611300,West Invercargill
+611400,Georgetown
+611500,Newfield-Rockdale
+611601,Heidelberg
+611602,Strathern
+611700,Appleby-Kew
+611800,Kingswell-Clifton
+611900,Tisbury
+612100,Bluff
+612200,Nightcaps
+612300,Ohai
+612400,Te Anau
+612500,Tuatapere
+612600,Otautau
+612712,Manapouri
+612713,Mossburn
+612714,Mararoa River
+612715,Inland Water-Lake Te Anau
+612720,Wairio
+612730,Te Waewae
+612740,Fairfax
+612801,Riverton East
+612802,Riverton West
+612901,Fiordland
+612902,Inland Water-Lake Manapouri
+612903,Inland Water-Lake Hauroko
+613000,Stewart Island
+615800,Mokohinau Island
+615900,Little Barrier Island
+616001,Kaikoura and Rangiahua Islands
+616200,Rakitu Island
+616300,Browns Island
+616400,Aiguilles Island
+618300,Te Motu Island
+618400,Motiti Island
+618500,Mayor Island
+619302,Islands-Thames-Coromandel District
+619701,Moutohora Island
+619900,White Island
+620000,Inland Water-Lake Taupo
+620904,Bare Island
+626500,Dog Island
+626700,Centre Island
+626801,Inlet-Bluff Harbour
