@@ -13,6 +13,7 @@ GEM
       capybara (~> 2.4, >= 2.4.4)
       mechanize (~> 2.7.0)
     coderay (1.1.1)
+    dbf (3.0.5)
     domain_name (0.5.20160615)
       unf (>= 0.0.5, < 1.0.0)
     http-cookie (1.0.2)
@@ -48,6 +49,10 @@ GEM
     rack (2.0.1)
     rack-test (0.6.3)
       rack (>= 1.0)
+    rgeo (0.5.3)
+    rgeo-shapefile (0.4.1)
+      dbf (~> 3.0)
+      rgeo (~> 0.3)
     slop (3.6.0)
     unf (0.1.4)
       unf_ext
@@ -63,6 +68,7 @@ DEPENDENCIES
   capybara-mechanize
   httparty
   pry
+  rgeo-shapefile
 
 BUNDLED WITH
    1.12.5
