@@ -51,43 +51,7 @@ export default class App extends BaseComponent {
   render() {
     return (
       <div>
-        <BankButtons
-          clickHandler={this.selectBank}
-          selectedBank={this.state.selectedBank}
-          />
-
-        <MapExplainer
-          slide={this.state.slide}
-          selectSlide={this.selectSlide}
-          />
-
-        <div className='map-container'>
-          <TAChoropleth
-            width={this.state.viewportWidth}
-            selectedBank={this.state.selectedBank}
-            />
-
-          <TopRegions
-            selectedBank={this.state.selectedBank}
-            />
-        </div>
-
-        <GraphExplainer
-          streamSlide={this.state.streamSlide}
-          selectStreamSlide={this.selectStreamSlide}
-          />
-
-         <Streamgraph
-            streamSlide={this.state.streamSlide}
-            elementId="stream-graph"
-          />
-
-        <Calendar
-          width={this.state.viewportWidth}
-          data={DailyMortgages}
-          elementId="calendar-view"
-          selectedBank={this.state.selectedBank}
-          />
+        
 
       </div>
     );
