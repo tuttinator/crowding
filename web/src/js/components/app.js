@@ -13,7 +13,7 @@ export default class App extends BaseComponent {
 
     }
 
-    this._bind();
+    this._bind('onResize');
 
     this.addEvent(window, 'resize', this.onResize);
 
