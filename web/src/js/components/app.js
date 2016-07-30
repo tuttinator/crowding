@@ -1,5 +1,6 @@
 import React from 'react';
 import BaseComponent from './base-component';
+import MapElement from './map-element';
 
 import d3 from 'd3';
 
@@ -12,7 +13,7 @@ export default class App extends BaseComponent {
 
     }
 
-    this._bind(;
+    this._bind();
 
     this.addEvent(window, 'resize', this.onResize);
 
@@ -51,7 +52,7 @@ export default class App extends BaseComponent {
   render() {
     return (
       <div>
-        
+        <MapElement />
 
       </div>
     );
