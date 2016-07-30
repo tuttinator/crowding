@@ -1,0 +1,230 @@
+body, html {
+  margin: 0;
+  padding: 0;
+  font-family: 'Helvetica Neue', Helvetica, Arial;
+  font-size: 13px;
+}
+
+h6 {
+  font-size: 1rem;
+}
+
+#main {
+
+}
+
+.anz {
+ fill: #064462;
+}
+.asb {
+  fill: #FBB93E;
+}
+.bnz {
+  fill: #467FD9;
+}
+.hsbc {
+  fill: #CD512E;
+  /*fill: #EBEBEA; */
+}
+.kiwibank {
+  fill: #90BA40;
+}
+.tsb {
+  fill: #999;
+}
+.westpac {
+  fill: #DC553F;
+}
+
+.bank-strength {
+  float: left;
+}
+
+
+.day {
+  /* fill: #fff; */
+  stroke: #ccc;
+  stroke-width: 1px;
+}
+
+.day:hover {
+  stroke: #444;
+}
+
+/*
+.day.fri {
+  stroke: #000;
+}
+*/
+
+.month {
+  fill: none;
+  stroke: #444;
+  stroke-width: 1px;
+}
+
+#calendar-view .block {
+  float: left;
+}
+
+
+.axis path,
+.axis line {
+  fill: none;
+  stroke: #000;
+}
+
+.line {
+  fill: none;
+  stroke-width: 5px;
+}
+
+text {
+  font-family: 'Helvetica Neue', Helvetica, Arial;
+  font-size: 11px;
+}
+
+.bank-button {
+  border: 1px solid #ccc;
+  background-color: transparent;
+  margin: 2px;
+  padding: 1rem;
+  outline: none;
+}
+
+.bank-button span {
+  display: block;
+  width: 15px;
+  height: 15px;
+  float: left;
+  margin-right: 5px;
+}
+
+.bank-button.active {
+  background-color: #ccc;
+}
+
+.bank-button:hover {
+  background-color: #bdc3c7;
+}
+
+.bank-buttons-row {
+  text-align: center;
+  margin: 15px 0;
+}
+
+path.arrow {
+  fill: none;
+  stroke: #444;
+}
+
+path.outline {
+  fill: none;
+  stroke: #444;
+}
+
+.top-regions-box {
+  font-size: 1rem;
+  width: 45%;
+  max-width: 300px;
+  position: absolute;
+  top: 0px;
+  left: 15px;
+}
+
+.region-details-row {
+  margin: 10px 0;
+}
+
+.tour-box {
+  text-align: center;
+  margin: 10px 10px 0;
+}
+
+.tour-box button {
+  margin: 20px 10px;
+  border: 1px solid #ccc;
+  background-color: transparent;
+  padding: 1rem;
+  outline: none;
+}
+
+.tour-box button:hover {
+  background-color: #bdc3c7;
+}
+
+.tour-box div {
+  padding: 1rem;
+  text-align: left;
+  width: 50%;
+  margin: auto;
+}
+
+.map-container {
+  position: relative;
+}
+
+svg.markers {
+  width: 0px;
+  height: 0px;
+}
+
+#stream-graph {
+  position: relative;
+  width: 100%;
+  max-width: 600px;
+  margin: auto;
+}
+
+#stream-graph .y.axis .tick line {
+  stroke: #ecf0f1;
+  stroke-width: 1px;
+}
+
+#stream-graph svg {
+  margin: auto;
+}
+
+.remove {
+  border: 1px solid #ccc;
+}
+
+.mortgages-info {
+  padding: 5px 10px;
+  line-height: 1.5rem;
+  background-color: #fff;
+}
+
+.tooltip-container {
+  background-color: #fff;
+}
+
+@media screen and (max-width: 600px) {
+
+  .tour-box div {
+    width: 60%;
+  }
+
+  #ta-winners {
+    margin-bottom: 80px;
+  }
+
+  .bank-buttons-row {
+    width: 80%;
+    margin: 15px auto;
+  }
+
+  .bank-button {
+    padding: 2px 3px;
+  }
+
+  .top-regions-box {
+    font-size: 0.8rem;
+    top: 0px;
+    left: 15px;
+  }
+
+  .top-regions-box h6 {
+    margin-top: 1rem;
+  }
+}
