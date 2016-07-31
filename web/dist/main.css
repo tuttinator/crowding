@@ -6,7 +6,104 @@ body, html {
 }
 
 #map {
-  height: 800px;
+  height: 100vh;
   width: 100%;
   max-width: 600px;
+  float: left;
+  margin-right: 30px;
+}
+
+#area-unit-details {
+  float: left;
+}
+
+#chart-container {
+  float: left;
+}
+
+
+table {
+  border-spacing: 0.5rem;
+}
+
+path.domain {
+  fill: none;
+  stroke: #444;
+}
+
+.scale {
+  float: left;
+}
+
+ .map-scale {
+   position: absolute;
+   top: 10px;
+   left: 10px;
+ }
+
+.scale span, .map-scale span {
+  display: block;
+}
+
+
+.scale span.scale-box, .map-scale span.scale-box {
+  height: 15px;
+  width: 15px;
+  display: block;
+  margin-right: 10px;
+  float: left;
+}
+
+.one-bed {
+  background-color: #16a085;
+}
+
+.two-beds {
+  background-color: #2980b9;
+}
+
+.three-beds {
+  background-color: #d35400;
+}
+
+.four-beds {
+  background-color: #8e44ad;
+}
+
+.five-beds {
+  background-color: #2c3e50;
+}
+
+
+.percent-crowded-0 {
+  background-color: #fff7ec;
+}
+.percent-crowded-6 {
+  background-color: #fee8c8;
+}
+.percent-crowded-12 {
+  background-color: #fdd49e;
+}
+.percent-crowded-18 {
+  background-color: #fdbb84;
+}
+.percent-crowded-24 {
+  background-color: #fc8d59;
+}
+.percent-crowded-30 {
+  background-color: #ef6548;
+}
+.percent-crowded-36 {
+  background-color: #d7301f;
+}
+.percent-crowded-42 {
+  background-color: #b30000;
+}
+.percent-crowded-48 {
+  background-color: #7f0000;
+}
+
+sidebar {
+  max-width: 420px;
+  float: left;
 }
